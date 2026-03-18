@@ -1,0 +1,58 @@
+/* MORE SUGAR FONTS */
+@font-face {
+	font-family: MoreSugar Extras;
+	src: url('./lib/assets/fonts/MoreSugar/MoreSugar-Extras.otf');
+}
+
+@font-face {
+	font-family: MoreSugar Regular;
+	src: url('./lib/assets/fonts/MoreSugar/MoreSugar-Regular.otf');
+}
+
+@font-face {
+	font-family: MoreSugar Thin;
+	src: url('./lib/assets/fonts/MoreSugar/MoreSugar-Thin.otf');
+}
+
+/* RALEWAY FONTS */
+@font-face {
+	font-family: Raleway Bold;
+	src: url('./lib/assets/fonts/Raleway/Raleway-Bold.ttf');
+}
+
+@font-face {
+	font-family: Raleway ExtraBold;
+	src: url('./lib/assets/fonts/Raleway/Raleway-ExtraBold.ttf');
+}
+
+@font-face {
+	font-family: Raleway Heavy;
+	src: url('./lib/assets/fonts/Raleway/Raleway-Heavy.ttf');
+}
+
+@font-face {
+	font-family: Raleway Light;
+	src: url('./lib/assets/fonts/Raleway/Raleway-Light.ttf');
+}
+
+@font-face {
+	font-family: Raleway Medium;
+	src: url('./lib/assets/fonts/Raleway/Raleway-Medium.ttf');
+}
+
+@font-face {
+	font-family:
+		Raleway,
+		Raleway Regular;
+	src: url('./lib/assets/fonts/Raleway/Raleway-Regular.ttf');
+}
+
+@font-face {
+	font-family: Raleway SemiBold;
+	src: url('./lib/assets/fonts/Raleway/Raleway-SemiBold.ttf');
+}
+
+@font-face {
+	font-family: Raleway Thin;
+	src: url('./lib/assets/fonts/Raleway/Raleway-Thin.ttf');
+}
