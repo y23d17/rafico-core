@@ -57,6 +57,7 @@
 		"vitest-browser-svelte": "^2.0.2"
 	},
 	"dependencies": {
+		"@sveltejs/adapter-static": "^3.0.10",
 		"beercss": "^4.0.19",
 		"jest": "^30.3.0",
 		"material-dynamic-colors": "^1.1.4"
